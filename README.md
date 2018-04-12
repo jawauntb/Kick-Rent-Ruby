@@ -1,5 +1,5 @@
 # README
-
+Making a rails based application that allows users to review shoes, as well as processing orders for individuals who want to rent shoes
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
